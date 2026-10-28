@@ -1,160 +1,151 @@
-🚆 Train Reservation System – UI/UX Design
+🚆 MukayaRail – Train Reservation System UI/UX Design
 
 📌 Project Overview
 
-The Train Reservation System is a UI/UX design project created using Figma. The main goal is to design a simple, user-friendly, and visually appealing interface that helps users search for trains, check availability, enter passenger details, and understand the ticket booking process.
+MukayaRail is a Train Reservation System UI/UX design project developed as part of my internship at Media Wave Technologies, Trichy.
 
-This project focuses on improving the user experience by making train reservation steps clear, accessible, and easy to navigate.
+The project focuses on designing a simple, user-friendly, and accessible train reservation experience. It aims to help users navigate the train booking process through clear layouts, organized information, and intuitive screen designs.
 
-🎯 Project Objective
+🎯 Project Objectives
 
-- To design an easy-to-use train reservation interface.
-- To simplify the train ticket booking process.
-- To improve the user experience through effective UI/UX principles.
-- To organize information clearly and consistently.
-- To create wireframes and interactive prototypes using Figma.
+- Design a user-friendly train reservation interface.
+- Simplify the train search and booking journey.
+- Improve navigation and overall user experience.
+- Create wireframes and interactive prototypes.
+- Apply user-centered design principles to solve usability problems.
 
 ❗ Problem Statement
 
-Users need a convenient way to understand and complete the train reservation process. Complicated navigation, unclear information, and unnecessary steps can make booking difficult.
+Users may find train reservation processes difficult when interfaces have complicated navigation, unclear information, or too many steps.
 
-This project aims to address these issues through a simple interface, clear navigation, and a structured booking flow.
+MukayaRail aims to address these challenges by designing a structured and easy-to-understand booking experience.
 
 💡 Proposed Solution
 
-The proposed design provides a user-friendly interface that guides users through the train reservation process.
+MukayaRail provides a planned interface that guides users through the train reservation journey.
 
-The design focuses on:
+The design emphasizes:
 
-- Simple and clear navigation.
-- Easy access to train search.
-- Organized passenger information forms.
-- A structured ticket booking flow.
-- Clear booking confirmation screens.
+- Simple navigation.
+- Clear presentation of journey information.
+- Organized passenger details.
+- A structured booking flow.
+- Consistent and user-friendly screen layouts.
 
 ✨ Key Features
 
-1. User-Friendly Interface
+- Train Search: Interface for entering departure, destination, and travel date.
+- Train Availability: Screen concept for displaying available trains.
+- Passenger Details: Organized passenger information form.
+- Booking Flow: Step-by-step reservation journey.
+- Booking Confirmation: Interface concept for displaying booking details.
+- Interactive Prototype: Demonstration of screen navigation using Figma.
 
-A clean and organized layout that helps users navigate the application easily.
-
-2. Train Search
-
-An interface for entering journey details, such as the departure station, destination, and travel date.
-
-3. Train Availability
-
-A proposed screen for displaying available trains and relevant journey information.
-
-4. Passenger Details
-
-A structured form for entering passenger information.
-
-5. Booking Flow
-
-A step-by-step interface that guides users through the reservation process.
-
-6. Booking Confirmation
-
-A proposed confirmation screen that summarizes the booking details.
-
-7. Interactive Prototype
-
-A clickable prototype that demonstrates navigation between the designed screens.
-
-Note: These features describe the intended design. They do not imply that a functional ticket-booking system has been implemented.
+Note: These features describe the design concepts and should be adjusted to match the screens actually created in the project.
 
 🛠️ Tools and Technologies
 
-- Figma: UI design and prototyping.
-- Wireframing: Planning screen layouts and user flows.
-- Prototyping: Demonstrating navigation between screens.
-- UI Design: Creating consistent visual elements.
-- UX Design: Organizing the user journey.
+- Figma – UI design and interactive prototyping.
+- Wireframing – Planning screen layouts.
+- Prototyping – Demonstrating user interactions.
+- User Research – Understanding user needs.
+- User Flow Design – Mapping the reservation journey.
+- UI/UX Design Principles – Improving usability and consistency.
 
 🔄 Design Process
 
-Step 1: Understanding the Problem
+1. User Research
 
-Identify the challenges users may face during train reservation.
+Understand user needs, expectations, and challenges related to train reservations.
 
-Step 2: User Research
+2. Empathy Mapping
 
-Understand user needs, expectations, and preferences related to train booking.
+Identify users' needs, thoughts, feelings, and pain points.
 
-Step 3: Information Architecture
+3. User Personas
 
-Organize the application screens and define the navigation structure.
+Create representative user profiles to guide design decisions.
 
-Step 4: Wireframing
+4. User Journey Mapping
 
-Create basic screen layouts to plan the interface and content placement.
+Map the steps users take while planning and booking a train journey.
 
-Step 5: UI Design
+5. User Flow
 
-Develop the visual interface using suitable typography, colors, buttons, and components.
+Create a flowchart showing the navigation between different screens.
 
-Step 6: Prototyping
+6. Wireframing
 
-Connect the screens in Figma to demonstrate the booking flow.
+Prepare wireframes to organize information and plan the interface.
 
-Step 7: Review and Improvement
+7. UI Design
 
-Review the design and identify opportunities to improve usability and navigation.
+Create the visual interface using suitable layouts, typography, colors, and components.
+
+8. Prototyping
+
+Connect the designed screens in Figma to demonstrate the user journey.
+
+9. Design Review
+
+Review the interface and identify opportunities to improve usability.
 
 👥 Target Users
 
-- People who travel by train.
 - Students travelling between home and college.
 - Daily commuters.
 - Families planning train journeys.
-- Users looking for a simple reservation interface.
+- Regular train passengers.
+- Users seeking a straightforward booking experience.
 
 🎨 UI/UX Design Principles
 
-- Consistency: Maintain consistent colors, typography, and components.
-- Simplicity: Keep screens clear and easy to understand.
-- Accessibility: Aim to make information readable and interactions understandable.
-- User Control: Provide clear navigation between screens.
-- Feedback: Use appropriate visual feedback in the prototype to communicate actions and progress.
+- Consistency: Maintain consistent layouts and visual elements.
+- Simplicity: Make screens easy to understand.
+- Accessibility: Aim for readable text and understandable interactions.
+- User Control: Provide clear navigation.
+- Feedback: Communicate actions and progress through appropriate interface elements.
 
-📱 Expected Outcome
+🎓 Internship Details
 
-The expected outcome is a user-friendly Train Reservation System prototype that demonstrates the main steps involved in searching for trains and making a reservation.
-
-The design can serve as a foundation for future development into a functional web or mobile application.
+- Organization: Media Wave Technologies
+- Location: Trichy, Tamil Nadu
+- Project Name: MukayaRail – Train Reservation System
+- Domain: UI/UX Design
+- Design Tool: Figma
+- Project Type: Internship Project
 
 🔗 Figma Project Link
 
-View my Train Reservation System UI/UX project:
+"Click here to view the MukayaRail Train Reservation System design" (Figma https://share.google/ZFwGMcXBO2WBh4wf6)
 
-"Click here to view the Figma project" (Figma https://share.google/ZFwGMcXBO2WBh4wf6)
+📈 Learning Outcomes
 
-📂 Project Details
+Through this project, I developed practical experience in:
 
-- Project Name: Train Reservation System
-- Project Category: UI/UX Design
-- Design Tool: Figma
-- Project Type: Academic / Portfolio Project
-- Deliverables: Wireframes, UI screens, and prototype, as applicable.
+- Understanding user requirements.
+- Creating user personas and empathy maps.
+- Designing user journeys and user flows.
+- Developing wireframes and UI screens.
+- Building interactive prototypes in Figma.
+- Applying user-centered design principles.
+- Presenting a UI/UX project professionally.
 
 🚀 Future Enhancements
 
-- Add user login and registration screens.
-- Improve the search and filtering experience.
-- Design responsive layouts for mobile and desktop.
-- Include additional accessibility considerations.
-- Develop the interface into a functional application.
-- Conduct usability testing and improve the design based on feedback.
+- Improve the mobile and desktop layouts.
+- Conduct usability testing with real users.
+- Refine the booking flow based on feedback.
+- Improve accessibility and navigation.
+- Develop the design into a functional application.
 
 👩‍💻 Author
 
 Arthi M.
 
 B.E. Computer Science and Engineering
-
 University College of Engineering, BIT Campus, Trichy
 
 📄 License
 
-This project is intended for educational and portfolio purposes. Please contact the author before reusing the original design assets.
+This project is presented for educational and portfolio purposes. Please obtain permission before reusing the original design assets.
